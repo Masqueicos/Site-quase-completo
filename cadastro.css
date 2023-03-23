@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+    width: 100%;
+}
+
+main {
+    margin-top: 50px;
+    text-align: center;
+}
+
+img {
+    width: 700px;
+}
+
+label {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+input {
+    margin-top: 5px;
+    font-size: 17px;
+}
+
+a {
+    font-weight: 500;
+    color: black;
+}
+
+.center{
+    display: flex; 
+    justify-content: center; 
+}
+
+.input {
+    margin-bottom: 20px;
+}
+
+.btn {
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    background-color: #2CEF28;
+    color: white;
+    font-weight: bold;
+}
